@@ -1,3 +1,8 @@
 p {
   font-family: Lato;
 }
+
+.style1{
+  position: relative;
+  top:80px;
+}
